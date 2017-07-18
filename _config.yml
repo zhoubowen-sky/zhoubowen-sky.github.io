@@ -1,7 +1,7 @@
-# 此文件保存的是整个 jekyll 项目的所有配置项，配置好了之后就不需要每次build都写命令
+# 此文件保存的是整个 jekyll 项目的所有配置项，配置好了之后基本就不需要再更改了
 
 # ---------------- #
-#   Main Configs   #
+#   主要配置信息     #
 # ---------------- #
 baseurl: ""
 url: http://blog.lingdongkuaichuan.com
@@ -10,18 +10,20 @@ title: 周博文的博客
 subtitle: "你的指尖有改变世界的力量"
 description: "周博文的个人博客"
 keywords: 周博文, 软件工程师, 安卓
+# 网站网址栏展示的图标
 favicon: /favicon.ico
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
-#      Author      #
+#     作者信息      #
 # ---------------- #
 author: 周博文
+# 公司名称 网站
 organization: xbrother.com
 organization_url: http://www.xbrother.com
 github_username: zhoubowen-sky
-location: Wuhan, China
+location: Shenzhen, China
 email: zhoubowen.sky@gmail.com
 
 # ---------------- #
