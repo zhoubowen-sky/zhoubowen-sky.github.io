@@ -1,27 +1,15 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
-
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: zhoubowen-sky
+  url: https://github.com/zhoubowen-sky
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: 周博文
+  url: http://blog.lingdongkuaichuan.com
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 周博文
+  url: http://www.weibo.com/zhoubowen2015?is_all=1
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: 网站
+  name: 灵动快传
+  url: http://www.lingdongkuaichuan.com

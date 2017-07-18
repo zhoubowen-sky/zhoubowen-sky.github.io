@@ -1,19 +1,12 @@
-- name: Software Engineer Keywords
+- name: 软件工程师
   keywords:
       - Java
-      - C++
-      - Python
-      - Design Patterns
+      - HTML
+      - JavaScript
+      - CSS
 
-- name: Mobile Developer Keywords
+- name: 移动客户端开发者
   keywords:
       - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Hybrid APP
+      - Cordova

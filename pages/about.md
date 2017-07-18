@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 你的指尖有改变世界的力量
+keywords: 周博文
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是周博文。
 
-仰慕「优雅编码的艺术」。
+。。。。。。。。
 
-坚信熟能生巧，努力改变人生。
+。。。。。。。。。。
 
 ## 联系
 
@@ -20,7 +20,7 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+## 技能关键词
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
