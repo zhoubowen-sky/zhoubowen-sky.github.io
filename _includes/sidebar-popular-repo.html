@@ -1,7 +1,5 @@
-<h3>My Popular Repositories</h3>
-{% if site.github.public_repositories != null %}
-{% assign repos = site.github.public_repositories | sort: "stargazers_count" | reverse%}
-{% for repo in repos | limit: site.side_bar_repo_limit %}
+<h3>我的开源项目列表</h3>
+{% if site.github.public_repositories != null %} {% assign repos = site.github.public_repositories | sort: "stargazers_count" | reverse%} {% for repo in repos | limit: site.side_bar_repo_limit %}
 <a href="{{ repo.html_url }}" target="_blank" class="card text-center">
     <div class="thumbnail">
         <div class="card-image geopattern" data-pattern-id="{{ repo.name }}">
@@ -24,11 +22,10 @@
                 </span>
                 <span class="meta-info" title="Last updated：{{ repo.updated_at }}">
                     <span class="octicon octicon-clock"></span>
-                    <time datetime="{{ repo.updated_at }}">{{ repo.updated_at | date: '%Y-%m-%d' }}</time>
+                <time datetime="{{ repo.updated_at }}">{{ repo.updated_at | date: '%Y-%m-%d' }}</time>
                 </span>
             </div>
         </div>
     </div>
 </a>
-{% endfor %}
-{% endif %}
+{% endfor %} {% endif %}
