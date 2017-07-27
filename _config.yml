@@ -7,9 +7,9 @@ baseurl: ""
 url: http://blog.lingdongkuaichuan.com
 date_format: "ordinal"
 title: 周博文的博客
-subtitle: "你的指尖有改变世界的力量"
+subtitle: "程序员，你的指尖有改变世界的力量"
 description: "周博文的个人博客"
-keywords: 周博文, 软件工程师, 安卓
+keywords: 周博文, 软件开发工程师, 安卓移动端，前端
 # 网站网址栏展示的图标
 favicon: /favicon.ico
 encoding: "utf-8"
@@ -20,11 +20,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: 周博文
 # 公司名称 网站
-organization: xbrother.com
+organization: 深圳共济科技
 organization_url: http://www.xbrother.com
 github_username: zhoubowen-sky
-location: Shenzhen, China
-email: zhoubowen.sky@gmail.com
+location: 深圳, 中国
+email: 1784225410@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -49,7 +49,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+#subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #

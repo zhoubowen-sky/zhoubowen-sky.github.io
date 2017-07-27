@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 description: 你的指尖有改变世界的力量
 keywords: 周博文
 comments: true
