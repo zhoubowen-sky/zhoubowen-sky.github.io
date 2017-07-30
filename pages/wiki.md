@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 维基
-description: 人越学越觉得自己无知
+description: 学无止境
 keywords: 维基, Wiki
 comments: false
 menu: 维基
